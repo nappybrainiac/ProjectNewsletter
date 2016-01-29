@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<! --
+This is an email Newsletter created by Gloria Bwandungi, for a Holbertonschool project. The purpose of this project is to learn to use HTML without the exciting cover of CSS.
+
+This Newsletter is being sent out to all the residents of Tier 1 who signed up to use Augmented Room IV on Yeti (the fastest moving human steered space vehicle of the 21st century). New features have been installed and they are being invited to try them out.
+
+-->
+
+<table>
+	<thead></thead>
+	<tbody></tbody>
+	<tr>
+		<table>
+		<!-- The header section of the email newsletter -->
+		<thead></thead>	
+		<tbody>
+			<img alt="logo" src="logo.jpg">
+		</tbody>
+		</table>
+	</tr>
+	<tr>
+		<table>
+		<!-- The body section of the email newsletter -->
+		<thead></thead>
+		<tbody></tbody>
+		</table>
+	</tr>
+	<tr>
+		<table>
+		<!-- The footer section of the email newsletter -->
+		<thead></thead>
+		<tbody></tbody>
+		</table>
+	</tr>			
+</table>
+
+</body>
+</html>
